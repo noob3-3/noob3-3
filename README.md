@@ -4,12 +4,9 @@
 
 <table>
 
-
 <tr>
 <td style = "width: 50%;">
-
 ## 📇 Learning:
-
 - `ROS`
 - `Android`
 - `数据通信`
