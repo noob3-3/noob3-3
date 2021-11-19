@@ -1,14 +1,10 @@
 ### 软件开发
-
 菜鸡一个，什么都不会，什么都爱学，什么都要学。
-
 <table>
-
 <tr>
-<td style = "width: 60%;">
-
+<td style = "width: 40%;">
+  
 ## 📇 Learning:
-
 - `ROS`
 - `Android`
 - `数据通信`
@@ -21,34 +17,31 @@
 
 - ROS
   - `激光SLAM`  3D、3D激光 建图 定位 导航实现
+  
 - Android
   - `Android`基于wifi的小车控制APP
+  
 - 数据通信
   - `思科华为`DHCP、DNS、DHCP中继、TCP、UDP 
+  
 - 爬虫
   - 微信小程序 疫情数据 微博 余量监控
+  
 - pyqt
   - 数据管理 
 
 - Python 后端
-
   - `django` AGV小车后端控制
   - `falsk` 机器学习推理模型部署，AR头盔视频会议后端
 
 - opencv图像处理
-
   - 车牌识别
-
   - 复制粘贴检测
 
-    
 
-  
-
-  
 
 </td>
-<td style = "width: 40%;">
+<td style = "width: 60%;">
 
 ##  📈Dash Board:
 
