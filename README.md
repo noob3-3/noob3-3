@@ -3,7 +3,6 @@
 <table>
 <tr>
 <td style = "width: 40%;">
-  
 ## 📇 Learning:
 - `ROS`
 - `Android`
