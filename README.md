@@ -81,7 +81,7 @@
 ![Android](https://img.shields.io/badge/-Android-444444?style=flat-square&logo=android)
 ![Linux](https://img.shields.io/badge/-Linux-444444?style=flat-square&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-444444?style=flat-square&logo=Ubuntu)
-![Debian](https://img.shields.io/badge/-Debian-444444?style=flat-square&logo=debian&logoColor=A81D33)
+![Deepin](https://img.shields.io/badge/-Deepin-444444?style=flat-square&logo=Deepin&logoColor=A81D33)
 ![Windows](https://img.shields.io/badge/-Windows-444444?style=flat-square&logo=windows&logoColor=0078D6)
 ![NGINX](https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
