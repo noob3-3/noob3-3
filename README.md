@@ -43,20 +43,55 @@
   - `Vivado`, `Quartus`,`MatLab 2020`
 - EDA
   - `Altium Designer`16 17 18 19 20 21
-  - `KiCAD`5.99
-  - `Eagle`7.4
-  - `Allegro`16 17.4
-  - `Proteus`8.5 8.9
-  - `Multisim`14
-- RTOS
-  - `FreeRTOS`
-  - `uC/OS-II`
-- Embedded Graphic Software Framework
-  - `DGUSII Dwin`
-  - `TouchGFX`
-  - `LVGL`
-- Low Layer Communication Protocol
-  - `CAN`, `RS485`, `I2C`, `SPI`, `QSPI`, `UART`, `USB`,`FSMC`
+  - `KiCAD`5.99### 软件开发
+
+菜鸡一个，什么都不会，什么都爱学，什么都要学。
+
+<table>
+
+
+<tr>
+<td style = "width: 50%;">
+
+## 📇 Learning:
+
+- `ROS`
+- `Android`
+- `数据通信`
+- `爬虫`
+- `pyqt`
+- `Python 后端`
+- `opencv图像处理`
+
+## 👔 Development Experience
+
+- ROS
+  - `激光SLAM`  3D、3D激光 建图 定位 导航实现
+- Android
+  - `Android`基于wifi的小车控制APP
+- 数据通信
+  - `思科华为`DHCP、DNS、DHCP中继、TCP、UDP 
+- 爬虫
+  - 微信小程序 疫情数据 微博 余量监控
+- pyqt
+  - 数据管理 
+
+- Python 后端
+
+  - `django` AGV小车后端控制
+  - `falsk` 机器学习推理模型部署，AR头盔视频会议后端
+
+- opencv图像处理
+
+  - 车牌识别
+
+  - 复制粘贴检测
+
+    
+
+  
+
+  
 
 </td>
 <td style = "width: 50%;">
@@ -76,7 +111,6 @@
 ## 🛠 Languages and Tools:
 
 
-
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -93,8 +127,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-444444?style=flat-square&logo=android-studio&logoColor=3DDC84)
 
-![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Abode%20Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
+
 
 ## 💻 Platforms:
 
