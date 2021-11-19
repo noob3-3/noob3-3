@@ -22,7 +22,7 @@
   - `Android`基于wifi的小车控制APP
   
 - 数据通信
-  - `思科华为`DHCP、DNS、DHCP中继、TCP、UDP 
+  - `思科华为`DHCP、DNS、DHCP中继、内网穿透、单臂路由 
   
 - 爬虫
   - 微信小程序 疫情数据 微博 余量监控
