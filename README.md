@@ -5,7 +5,7 @@
 <table>
 
 <tr>
-<td style = "width: 50%;">
+<td style = "width: 60%;">
 
 ## 📇 Learning:
 
@@ -48,7 +48,7 @@
   
 
 </td>
-<td style = "width: 50%;">
+<td style = "width: 40%;">
 
 ##  📈Dash Board:
 
