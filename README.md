@@ -17,7 +17,7 @@
 ## 👔 Development Experience
 
 - ROS
-  - `激光SLAM`  3D、3D激光 建图 定位 导航实现
+  - `激光SLAM`  2D、3D激光 建图 定位 导航实现
   
 - Android
   - `Android`基于wifi的小车控制APP
